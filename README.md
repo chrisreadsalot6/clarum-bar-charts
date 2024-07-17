@@ -2,6 +2,7 @@ Shows bar charts of daily stock volume for 30 stocks.
 
 ## Additional Features
 - hovering over a bar chart increases it's size
+- click a bar removes it from the page
 - the AAPL stock uses 5000 datapoints
 
 Please note I have included an API KEY in a .env file to make sharing easy while still connecting with a third-party API for stock volume data.
